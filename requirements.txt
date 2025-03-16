@@ -1,0 +1,5 @@
+Django==5.1.4
+Pillow==10.4.0
+Numpy
+matplotlib
+requests
